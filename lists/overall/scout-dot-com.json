@@ -1,0 +1,3002 @@
+[
+  {
+    "rank": [
+      1
+    ],
+    "name": "Le'Veon Bell",
+    "team": "PIT",
+    "adp": [
+      2.02
+    ],
+    "projected": [
+      408.9
+    ],
+    "bye": "9",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      2
+    ],
+    "name": "David Johnson",
+    "team": "ARI",
+    "adp": [
+      1.08
+    ],
+    "projected": [
+      406.7
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      3
+    ],
+    "name": "Antonio Brown",
+    "team": "PIT",
+    "adp": [
+      3.12
+    ],
+    "projected": [
+      339.6
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      4
+    ],
+    "name": "Odell Beckham",
+    "team": "NYG",
+    "adp": [
+      4.89
+    ],
+    "projected": [
+      317.2
+    ],
+    "bye": "8",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      5
+    ],
+    "name": "Julio Jones",
+    "team": "ATL",
+    "adp": [
+      5.01
+    ],
+    "projected": [
+      314.1
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      6
+    ],
+    "name": "Melvin Gordon\nBold Prediction",
+    "team": "LAC",
+    "adp": [
+      9.67
+    ],
+    "projected": [
+      287.5
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      7
+    ],
+    "name": "LeSean McCoy",
+    "team": "BUF",
+    "adp": [
+      8.12
+    ],
+    "projected": [
+      282.2
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      8
+    ],
+    "name": "Devonta Freeman\nSecret",
+    "team": "ATL",
+    "adp": [
+      10.18
+    ],
+    "projected": [
+      278.9
+    ],
+    "bye": "5",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      9
+    ],
+    "name": "Mike Evans",
+    "team": "TB",
+    "adp": [
+      7.43
+    ],
+    "projected": [
+      289
+    ],
+    "bye": "11",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      10
+    ],
+    "name": "A.J. Green",
+    "team": "CIN",
+    "adp": [
+      8.02
+    ],
+    "projected": [
+      281
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      11
+    ],
+    "name": "Todd Gurley\nBold Prediction",
+    "team": "LAR",
+    "adp": [
+      20.05
+    ],
+    "projected": [
+      262
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      12
+    ],
+    "name": "Jay Ajayi",
+    "team": "MIA",
+    "adp": [
+      15.66
+    ],
+    "projected": [
+      261.6
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      13
+    ],
+    "name": "Leonard Fournette",
+    "team": "JAX",
+    "adp": [
+      23.16
+    ],
+    "projected": [
+      259.6
+    ],
+    "bye": "8",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      14
+    ],
+    "name": "Jordy Nelson",
+    "team": "GB",
+    "adp": [
+      11.15
+    ],
+    "projected": [
+      272.5
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      15
+    ],
+    "name": "Michael Thomas",
+    "team": "NO",
+    "adp": [
+      12.28
+    ],
+    "projected": [
+      270
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      16
+    ],
+    "name": "Brandin Cooks\nMust Have Info",
+    "team": "NE",
+    "adp": [
+      23.92
+    ],
+    "projected": [
+      268
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      17
+    ],
+    "name": "Ty Hilton",
+    "team": "IND",
+    "adp": [
+      18.56
+    ],
+    "projected": [
+      266.5
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      18
+    ],
+    "name": "Rob Gronkowski\nMust Have Info",
+    "team": "NE",
+    "adp": [
+      19.51
+    ],
+    "projected": [
+      258
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      19
+    ],
+    "name": "Amari Cooper",
+    "team": "OAK",
+    "adp": [
+      17.63
+    ],
+    "projected": [
+      263
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      20
+    ],
+    "name": "Dez Bryant\nLearn",
+    "team": "DAL",
+    "adp": [
+      19.86
+    ],
+    "projected": [
+      259.9
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      21
+    ],
+    "name": "Doug Baldwin",
+    "team": "SEA",
+    "adp": [
+      21.67
+    ],
+    "projected": [
+      259.1
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      22
+    ],
+    "name": "DeAndre Hopkins\nLearn",
+    "team": "HOU",
+    "adp": [
+      26.47
+    ],
+    "projected": [
+      257
+    ],
+    "bye": "7",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      23
+    ],
+    "name": "Isaiah Crowell",
+    "team": "CLE",
+    "adp": [
+      32.3
+    ],
+    "projected": [
+      241
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      24
+    ],
+    "name": "Jordan Howard\nDoc's Picks",
+    "team": "CHI",
+    "adp": [
+      15.3
+    ],
+    "projected": [
+      241
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      25
+    ],
+    "name": "Ezekiel Elliott\nRead Why",
+    "team": "DAL",
+    "adp": [
+      12.72
+    ],
+    "projected": [
+      239.9
+    ],
+    "bye": "6",
+    "injury": "Sus"
+  },
+  {
+    "rank": [
+      26
+    ],
+    "name": "Christian McCaffrey\nExpert Opinion",
+    "team": "CAR",
+    "adp": [
+      30.97
+    ],
+    "projected": [
+      237
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      27
+    ],
+    "name": "Aaron Rodgers",
+    "team": "GB",
+    "adp": [
+      27.75
+    ],
+    "projected": [
+      467.5
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      28
+    ],
+    "name": "DeMarco Murray\nBold Prediction",
+    "team": "TEN",
+    "adp": [
+      16.63
+    ],
+    "projected": [
+      232.9
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      29
+    ],
+    "name": "Keenan Allen",
+    "team": "LAC",
+    "adp": [
+      31.55
+    ],
+    "projected": [
+      247
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      30
+    ],
+    "name": "Dalvin Cook\nValue",
+    "team": "MIN",
+    "adp": [
+      35.37
+    ],
+    "projected": [
+      231.6
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      31
+    ],
+    "name": "Tyreek Hill\nExpert Opinion",
+    "team": "KC",
+    "adp": [
+      40.69
+    ],
+    "projected": [
+      246
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      32
+    ],
+    "name": "Demaryius Thomas",
+    "team": "DEN",
+    "adp": [
+      27.89
+    ],
+    "projected": [
+      246
+    ],
+    "bye": "5",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      33
+    ],
+    "name": "Marshawn Lynch",
+    "team": "OAK",
+    "adp": [
+      41.77
+    ],
+    "projected": [
+      229.6
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      34
+    ],
+    "name": "Travis Kelce",
+    "team": "KC",
+    "adp": [
+      31.2
+    ],
+    "projected": [
+      237.8
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      35
+    ],
+    "name": "Tom Brady",
+    "team": "NE",
+    "adp": [
+      35.44
+    ],
+    "projected": [
+      455.6
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      36
+    ],
+    "name": "Ty Montgomery",
+    "team": "GB",
+    "adp": [
+      41.68
+    ],
+    "projected": [
+      223.8
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      37
+    ],
+    "name": "Jordan Reed",
+    "team": "WAS",
+    "adp": [
+      52.81
+    ],
+    "projected": [
+      227.5
+    ],
+    "bye": "5",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      38
+    ],
+    "name": "Jimmy Graham",
+    "team": "SEA",
+    "adp": [
+      62.16
+    ],
+    "projected": [
+      227
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      39
+    ],
+    "name": "Terrelle Pryor",
+    "team": "WAS",
+    "adp": [
+      34.05
+    ],
+    "projected": [
+      231.5
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      40
+    ],
+    "name": "Joe Mixon",
+    "team": "CIN",
+    "adp": [
+      37.87
+    ],
+    "projected": [
+      216.2
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      41
+    ],
+    "name": "Golden Tate",
+    "team": "DET",
+    "adp": [
+      43.93
+    ],
+    "projected": [
+      231
+    ],
+    "bye": "7",
+    "injury": ""
+  },
+  {
+    "rank": [
+      42
+    ],
+    "name": "Alshon Jeffery",
+    "team": "PHI",
+    "adp": [
+      39.08
+    ],
+    "projected": [
+      230.5
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      43
+    ],
+    "name": "Drew Brees",
+    "team": "NO",
+    "adp": [
+      52.93
+    ],
+    "projected": [
+      445.6
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      44
+    ],
+    "name": "Davante Adams",
+    "team": "GB",
+    "adp": [
+      41.02
+    ],
+    "projected": [
+      228
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      45
+    ],
+    "name": "Doug Martin\nRead Why",
+    "team": "TB",
+    "adp": [
+      76.81
+    ],
+    "projected": [
+      213
+    ],
+    "bye": "11",
+    "injury": "Sus"
+  },
+  {
+    "rank": [
+      46
+    ],
+    "name": "Jarvis Landry",
+    "team": "MIA",
+    "adp": [
+      46.89
+    ],
+    "projected": [
+      227.5
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      47
+    ],
+    "name": "Martavis Bryant\nMust Have Info",
+    "team": "PIT",
+    "adp": [
+      49.63
+    ],
+    "projected": [
+      227
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      48
+    ],
+    "name": "Allen Robinson",
+    "team": "JAX",
+    "adp": [
+      35.84
+    ],
+    "projected": [
+      226.5
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      49
+    ],
+    "name": "Carlos Hyde\nExpert",
+    "team": "SF",
+    "adp": [
+      44.88
+    ],
+    "projected": [
+      211.2
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      50
+    ],
+    "name": "Jamison Crowder\nBreakout",
+    "team": "WAS",
+    "adp": [
+      58.95
+    ],
+    "projected": [
+      225.5
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      51
+    ],
+    "name": "Tyler Eifert",
+    "team": "CIN",
+    "adp": [
+      74.09
+    ],
+    "projected": [
+      220
+    ],
+    "bye": "6",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      52
+    ],
+    "name": "Stefon Diggs",
+    "team": "MIN",
+    "adp": [
+      49.03
+    ],
+    "projected": [
+      225
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      53
+    ],
+    "name": "Sammy Watkins",
+    "team": "LAR",
+    "adp": [
+      40.67
+    ],
+    "projected": [
+      224.9
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      54
+    ],
+    "name": "Michael Crabtree",
+    "team": "OAK",
+    "adp": [
+      43.6
+    ],
+    "projected": [
+      222.1
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      55
+    ],
+    "name": "Larry Fitzgerald",
+    "team": "ARI",
+    "adp": [
+      47.7
+    ],
+    "projected": [
+      220
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      56
+    ],
+    "name": "Matt Ryan",
+    "team": "ATL",
+    "adp": [
+      75.16
+    ],
+    "projected": [
+      436.4
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      57
+    ],
+    "name": "Kareem Hunt\nMust Have Info",
+    "team": "KC",
+    "adp": [
+      87.73
+    ],
+    "projected": [
+      203.7
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      58
+    ],
+    "name": "Emmanuel Sanders",
+    "team": "DEN",
+    "adp": [
+      60.02
+    ],
+    "projected": [
+      217.5
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      59
+    ],
+    "name": "Donte Moncrief",
+    "team": "IND",
+    "adp": [
+      77.85
+    ],
+    "projected": [
+      217
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      60
+    ],
+    "name": "Brandon Marshall\nClick",
+    "team": "NYG",
+    "adp": [
+      68.7
+    ],
+    "projected": [
+      215
+    ],
+    "bye": "8",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      61
+    ],
+    "name": "Willie Snead",
+    "team": "NO",
+    "adp": [
+      58.63
+    ],
+    "projected": [
+      214.7
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      62
+    ],
+    "name": "Tevin Coleman\nLearn",
+    "team": "ATL",
+    "adp": [
+      67.56
+    ],
+    "projected": [
+      198.2
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      63
+    ],
+    "name": "Ben Roethlisberger",
+    "team": "PIT",
+    "adp": [
+      110.59
+    ],
+    "projected": [
+      428.7
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      64
+    ],
+    "name": "Bilal Powell",
+    "team": "NYJ",
+    "adp": [
+      66.28
+    ],
+    "projected": [
+      197.1
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      65
+    ],
+    "name": "DeVante Parker",
+    "team": "MIA",
+    "adp": [
+      70.73
+    ],
+    "projected": [
+      210
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      66
+    ],
+    "name": "Samaje Perine\nScout Exclusive",
+    "team": "WAS",
+    "adp": [
+      118.54
+    ],
+    "projected": [
+      194.4
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      67
+    ],
+    "name": "DeSean Jackson",
+    "team": "TB",
+    "adp": [
+      80.91
+    ],
+    "projected": [
+      209.2
+    ],
+    "bye": "11",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      68
+    ],
+    "name": "Kelvin Benjamin",
+    "team": "CAR",
+    "adp": [
+      58.88
+    ],
+    "projected": [
+      208
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      69
+    ],
+    "name": "Lamar Miller",
+    "team": "HOU",
+    "adp": [
+      30.92
+    ],
+    "projected": [
+      190.5
+    ],
+    "bye": "7",
+    "injury": ""
+  },
+  {
+    "rank": [
+      70
+    ],
+    "name": "Derrick Henry\nBreakout",
+    "team": "TEN",
+    "adp": [
+      76.04
+    ],
+    "projected": [
+      189.5
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      71
+    ],
+    "name": "Greg Olsen\nMust Have Info",
+    "team": "CAR",
+    "adp": [
+      52.8
+    ],
+    "projected": [
+      199
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      72
+    ],
+    "name": "Mark Ingram",
+    "team": "NO",
+    "adp": [
+      57.72
+    ],
+    "projected": [
+      188
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      73
+    ],
+    "name": "Ameer Abdullah",
+    "team": "DET",
+    "adp": [
+      59.03
+    ],
+    "projected": [
+      188
+    ],
+    "bye": "7",
+    "injury": ""
+  },
+  {
+    "rank": [
+      74
+    ],
+    "name": "Pierre Garcon",
+    "team": "SF",
+    "adp": [
+      70.36
+    ],
+    "projected": [
+      200
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      75
+    ],
+    "name": "Russell Wilson",
+    "team": "SEA",
+    "adp": [
+      75.06
+    ],
+    "projected": [
+      415.5
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      76
+    ],
+    "name": "Andrew Luck",
+    "team": "IND",
+    "adp": [
+      82.07
+    ],
+    "projected": [
+      414.5
+    ],
+    "bye": "11",
+    "injury": "Out"
+  },
+  {
+    "rank": [
+      77
+    ],
+    "name": "Danny Woodhead\nExpert",
+    "team": "BAL",
+    "adp": [
+      60.91
+    ],
+    "projected": [
+      180.8
+    ],
+    "bye": "10",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      78
+    ],
+    "name": "Jameis Winston",
+    "team": "TB",
+    "adp": [
+      93.51
+    ],
+    "projected": [
+      410.2
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      79
+    ],
+    "name": "Marcus Mariota\nValue",
+    "team": "TEN",
+    "adp": [
+      94.9
+    ],
+    "projected": [
+      408.9
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      80
+    ],
+    "name": "Kirk Cousins\nExpert",
+    "team": "WAS",
+    "adp": [
+      98.1
+    ],
+    "projected": [
+      408.5
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      81
+    ],
+    "name": "C.J. Anderson",
+    "team": "DEN",
+    "adp": [
+      60.2
+    ],
+    "projected": [
+      177
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      82
+    ],
+    "name": "Zach Ertz",
+    "team": "PHI",
+    "adp": [
+      90.53
+    ],
+    "projected": [
+      186.6
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      83
+    ],
+    "name": "Randall Cobb",
+    "team": "GB",
+    "adp": [
+      87.17
+    ],
+    "projected": [
+      192
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      84
+    ],
+    "name": "Adrian Peterson",
+    "team": "NO",
+    "adp": [
+      80.42
+    ],
+    "projected": [
+      176.2
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      85
+    ],
+    "name": "John Brown",
+    "team": "ARI",
+    "adp": [
+      107.57
+    ],
+    "projected": [
+      190.5
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      86
+    ],
+    "name": "Tyrell Williams",
+    "team": "LAC",
+    "adp": [
+      83.04
+    ],
+    "projected": [
+      187.4
+    ],
+    "bye": "9",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      87
+    ],
+    "name": "Corey Davis\nBreakout",
+    "team": "TEN",
+    "adp": [
+      98.55
+    ],
+    "projected": [
+      186.5
+    ],
+    "bye": "8",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      88
+    ],
+    "name": "Eric Decker",
+    "team": "TEN",
+    "adp": [
+      92.66
+    ],
+    "projected": [
+      186.4
+    ],
+    "bye": "8",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      89
+    ],
+    "name": "Jordan Matthews",
+    "team": "BUF",
+    "adp": [
+      109.92
+    ],
+    "projected": [
+      186.1
+    ],
+    "bye": "6",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      90
+    ],
+    "name": "Chris Hogan",
+    "team": "NE",
+    "adp": [
+      180.44
+    ],
+    "projected": [
+      185
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      91
+    ],
+    "name": "Kevin White",
+    "team": "CHI",
+    "adp": [
+      152.35
+    ],
+    "projected": [
+      185
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      92
+    ],
+    "name": "Adam Thielen",
+    "team": "MIN",
+    "adp": [
+      105.37
+    ],
+    "projected": [
+      185
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      93
+    ],
+    "name": "Corey Coleman\nLearn",
+    "team": "CLE",
+    "adp": [
+      107.38
+    ],
+    "projected": [
+      183.5
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      94
+    ],
+    "name": "Cam Newton",
+    "team": "CAR",
+    "adp": [
+      99.76
+    ],
+    "projected": [
+      397.5
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      95
+    ],
+    "name": "Hunter Henry",
+    "team": "LAC",
+    "adp": [
+      98
+    ],
+    "projected": [
+      175.5
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      96
+    ],
+    "name": "Theo Riddick",
+    "team": "DET",
+    "adp": [
+      85.33
+    ],
+    "projected": [
+      165.5
+    ],
+    "bye": "7",
+    "injury": ""
+  },
+  {
+    "rank": [
+      97
+    ],
+    "name": "Derek Carr",
+    "team": "OAK",
+    "adp": [
+      98.86
+    ],
+    "projected": [
+      396
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      98
+    ],
+    "name": "Ted Ginn",
+    "team": "NO",
+    "adp": [
+      126.06
+    ],
+    "projected": [
+      178.5
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      99
+    ],
+    "name": "Robby Anderson",
+    "team": "NYJ",
+    "adp": [
+      147.47
+    ],
+    "projected": [
+      177.7
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      100
+    ],
+    "name": "Paul Perkins",
+    "team": "NYG",
+    "adp": [
+      83.72
+    ],
+    "projected": [
+      162.2
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      101
+    ],
+    "name": "Jeremy Maclin\nMust Have Info",
+    "team": "BAL",
+    "adp": [
+      82.2
+    ],
+    "projected": [
+      177
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      102
+    ],
+    "name": "Eric Ebron",
+    "team": "DET",
+    "adp": [
+      109.89
+    ],
+    "projected": [
+      171.5
+    ],
+    "bye": "7",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      103
+    ],
+    "name": "Mike Gillislee",
+    "team": "NE",
+    "adp": [
+      68.08
+    ],
+    "projected": [
+      160.3
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      104
+    ],
+    "name": "Zay Jones",
+    "team": "BUF",
+    "adp": [
+      137.01
+    ],
+    "projected": [
+      175.3
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      105
+    ],
+    "name": "Breshad Perriman",
+    "team": "BAL",
+    "adp": [
+      180.86
+    ],
+    "projected": [
+      175
+    ],
+    "bye": "10",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      106
+    ],
+    "name": "Martellus Bennett",
+    "team": "GB",
+    "adp": [
+      97.46
+    ],
+    "projected": [
+      169
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      107
+    ],
+    "name": "Kenny Britt",
+    "team": "CLE",
+    "adp": [
+      106.21
+    ],
+    "projected": [
+      174.1
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      108
+    ],
+    "name": "Danny Amendola\nExpert Opinion",
+    "team": "NE",
+    "adp": [
+      206.91
+    ],
+    "projected": [
+      173.5
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      109
+    ],
+    "name": "Kyle Rudolph",
+    "team": "MIN",
+    "adp": [
+      80.96
+    ],
+    "projected": [
+      167
+    ],
+    "bye": "9",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      110
+    ],
+    "name": "Frank Gore",
+    "team": "IND",
+    "adp": [
+      91.29
+    ],
+    "projected": [
+      157.3
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      111
+    ],
+    "name": "Jack Doyle",
+    "team": "IND",
+    "adp": [
+      117.76
+    ],
+    "projected": [
+      166
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      112
+    ],
+    "name": "Philip Rivers\nValue",
+    "team": "LAC",
+    "adp": [
+      119.27
+    ],
+    "projected": [
+      387.4
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      113
+    ],
+    "name": "Rishard Matthews",
+    "team": "TEN",
+    "adp": [
+      126.15
+    ],
+    "projected": [
+      169.5
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      114
+    ],
+    "name": "Eli Manning",
+    "team": "NYG",
+    "adp": [
+      130.32
+    ],
+    "projected": [
+      383.5
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      115
+    ],
+    "name": "Eddie Lacy\nExpert",
+    "team": "SEA",
+    "adp": [
+      91.62
+    ],
+    "projected": [
+      151.4
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      116
+    ],
+    "name": "Marvin Jones",
+    "team": "DET",
+    "adp": [
+      110.4
+    ],
+    "projected": [
+      165
+    ],
+    "bye": "7",
+    "injury": ""
+  },
+  {
+    "rank": [
+      117
+    ],
+    "name": "Shane Vereen\nStash",
+    "team": "NYG",
+    "adp": [
+      175.26
+    ],
+    "projected": [
+      150
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      118
+    ],
+    "name": "Mike Wallace",
+    "team": "BAL",
+    "adp": [
+      118.64
+    ],
+    "projected": [
+      165
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      119
+    ],
+    "name": "LeGarrette Blount",
+    "team": "PHI",
+    "adp": [
+      96.02
+    ],
+    "projected": [
+      149.7
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      120
+    ],
+    "name": "Josh Doctson\nBreakout",
+    "team": "WAS",
+    "adp": [
+      131.64
+    ],
+    "projected": [
+      164.7
+    ],
+    "bye": "5",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      121
+    ],
+    "name": "Duke Johnson\nExpert",
+    "team": "CLE",
+    "adp": [
+      94.1
+    ],
+    "projected": [
+      149.3
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      122
+    ],
+    "name": "Malcolm Mitchell",
+    "team": "NE",
+    "adp": [
+      216.2
+    ],
+    "projected": [
+      160.5
+    ],
+    "bye": "9",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      123
+    ],
+    "name": "Delanie Walker",
+    "team": "TEN",
+    "adp": [
+      92.68
+    ],
+    "projected": [
+      155
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      124
+    ],
+    "name": "J.J. Nelson",
+    "team": "ARI",
+    "adp": [
+      180.93
+    ],
+    "projected": [
+      160
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      125
+    ],
+    "name": "Robert Woods",
+    "team": "LAR",
+    "adp": [
+      181.55
+    ],
+    "projected": [
+      160
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      126
+    ],
+    "name": "C.J. Prosise",
+    "team": "SEA",
+    "adp": [
+      112.34
+    ],
+    "projected": [
+      143.8
+    ],
+    "bye": "6",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      127
+    ],
+    "name": "Sterling Shepard",
+    "team": "NYG",
+    "adp": [
+      145.07
+    ],
+    "projected": [
+      158
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      128
+    ],
+    "name": "Taylor Gabriel",
+    "team": "ATL",
+    "adp": [
+      166.45
+    ],
+    "projected": [
+      158
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      129
+    ],
+    "name": "Seattle",
+    "team": "SEA",
+    "adp": [
+      0
+    ],
+    "projected": [
+      131
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      130
+    ],
+    "name": "Torrey Smith",
+    "team": "PHI",
+    "adp": [
+      206.71
+    ],
+    "projected": [
+      157.5
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      131
+    ],
+    "name": "Dak Prescott",
+    "team": "DAL",
+    "adp": [
+      114.07
+    ],
+    "projected": [
+      373.5
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      132
+    ],
+    "name": "Tyler Lockett",
+    "team": "SEA",
+    "adp": [
+      149.8
+    ],
+    "projected": [
+      157
+    ],
+    "bye": "6",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      133
+    ],
+    "name": "Matt Forte",
+    "team": "NYJ",
+    "adp": [
+      129.87
+    ],
+    "projected": [
+      142
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      134
+    ],
+    "name": "John Ross",
+    "team": "CIN",
+    "adp": [
+      152.86
+    ],
+    "projected": [
+      156.9
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      135
+    ],
+    "name": "Marqise Lee",
+    "team": "JAX",
+    "adp": [
+      176.35
+    ],
+    "projected": [
+      156.5
+    ],
+    "bye": "8",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      136
+    ],
+    "name": "Denver",
+    "team": "DEN",
+    "adp": [
+      0
+    ],
+    "projected": [
+      129
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      137
+    ],
+    "name": "D'Onta Foreman\nStash",
+    "team": "HOU",
+    "adp": [
+      167.05
+    ],
+    "projected": [
+      140.5
+    ],
+    "bye": "7",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      138
+    ],
+    "name": "Coby Fleener",
+    "team": "NO",
+    "adp": [
+      138.02
+    ],
+    "projected": [
+      150
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      139
+    ],
+    "name": "Jason Witten",
+    "team": "DAL",
+    "adp": [
+      149.21
+    ],
+    "projected": [
+      149.9
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      140
+    ],
+    "name": "Cole Beasley",
+    "team": "DAL",
+    "adp": [
+      150.27
+    ],
+    "projected": [
+      155
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      141
+    ],
+    "name": "Kansas City",
+    "team": "KC",
+    "adp": [
+      0
+    ],
+    "projected": [
+      128
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      142
+    ],
+    "name": "Cooper Kupp\nRead Why",
+    "team": "LAR",
+    "adp": [
+      167.68
+    ],
+    "projected": [
+      154.5
+    ],
+    "bye": "8",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      143
+    ],
+    "name": "C.J. Fiedorowicz",
+    "team": "HOU",
+    "adp": [
+      164.52
+    ],
+    "projected": [
+      149
+    ],
+    "bye": "7",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      144
+    ],
+    "name": "Curtis Samuel",
+    "team": "CAR",
+    "adp": [
+      211.26
+    ],
+    "projected": [
+      154
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      145
+    ],
+    "name": "James White",
+    "team": "NE",
+    "adp": [
+      117.69
+    ],
+    "projected": [
+      137.7
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      146
+    ],
+    "name": "Houston",
+    "team": "HOU",
+    "adp": [
+      0
+    ],
+    "projected": [
+      125
+    ],
+    "bye": "7",
+    "injury": ""
+  },
+  {
+    "rank": [
+      147
+    ],
+    "name": "Latavius Murray",
+    "team": "MIN",
+    "adp": [
+      165.52
+    ],
+    "projected": [
+      136.5
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      148
+    ],
+    "name": "Kenny Stills",
+    "team": "MIA",
+    "adp": [
+      174.62
+    ],
+    "projected": [
+      151.3
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      149
+    ],
+    "name": "Rex Burkhead",
+    "team": "NE",
+    "adp": [
+      150.09
+    ],
+    "projected": [
+      135
+    ],
+    "bye": "9",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      150
+    ],
+    "name": "Arizona",
+    "team": "ARI",
+    "adp": [
+      0
+    ],
+    "projected": [
+      121
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      151
+    ],
+    "name": "Darren Sproles",
+    "team": "PHI",
+    "adp": [
+      137.27
+    ],
+    "projected": [
+      132
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      152
+    ],
+    "name": "Allen Hurns",
+    "team": "JAX",
+    "adp": [
+      198.86
+    ],
+    "projected": [
+      146
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      153
+    ],
+    "name": "Minnesota",
+    "team": "MIN",
+    "adp": [
+      0
+    ],
+    "projected": [
+      119
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      154
+    ],
+    "name": "Austin Hooper",
+    "team": "ATL",
+    "adp": [
+      133.25
+    ],
+    "projected": [
+      140
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      155
+    ],
+    "name": "Cameron Brate",
+    "team": "TB",
+    "adp": [
+      159.35
+    ],
+    "projected": [
+      139.8
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      156
+    ],
+    "name": "Jonathan Stewart",
+    "team": "CAR",
+    "adp": [
+      125.78
+    ],
+    "projected": [
+      130
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      157
+    ],
+    "name": "Andy Dalton",
+    "team": "CIN",
+    "adp": [
+      124.58
+    ],
+    "projected": [
+      361
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      158
+    ],
+    "name": "Julius Thomas",
+    "team": "MIA",
+    "adp": [
+      157.15
+    ],
+    "projected": [
+      139
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      159
+    ],
+    "name": "New England",
+    "team": "NE",
+    "adp": [
+      0
+    ],
+    "projected": [
+      117
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      160
+    ],
+    "name": "Matthew Stafford",
+    "team": "DET",
+    "adp": [
+      116.21
+    ],
+    "projected": [
+      360
+    ],
+    "bye": "7",
+    "injury": ""
+  },
+  {
+    "rank": [
+      161
+    ],
+    "name": "New York Giants",
+    "team": "NYG",
+    "adp": [
+      0
+    ],
+    "projected": [
+      116
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      162
+    ],
+    "name": "Alvin Kamara\nScout Exclusive",
+    "team": "NO",
+    "adp": [
+      145.25
+    ],
+    "projected": [
+      126
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      163
+    ],
+    "name": "Rob Kelley",
+    "team": "WAS",
+    "adp": [
+      106.61
+    ],
+    "projected": [
+      124.3
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      164
+    ],
+    "name": "Carolina",
+    "team": "CAR",
+    "adp": [
+      0
+    ],
+    "projected": [
+      112
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      165
+    ],
+    "name": "Jeremy Hill\nAvoid",
+    "team": "CIN",
+    "adp": [
+      150.38
+    ],
+    "projected": [
+      123.1
+    ],
+    "bye": "6",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      166
+    ],
+    "name": "Jamaal Williams\nMust Have Info",
+    "team": "GB",
+    "adp": [
+      132.1
+    ],
+    "projected": [
+      123
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      167
+    ],
+    "name": "Mohamed Sanu",
+    "team": "ATL",
+    "adp": [
+      173.01
+    ],
+    "projected": [
+      137.1
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      168
+    ],
+    "name": "Justin Tucker",
+    "team": "BAL",
+    "adp": [
+      0
+    ],
+    "projected": [
+      145
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      169
+    ],
+    "name": "Kenny Golladay",
+    "team": "DET",
+    "adp": [
+      152.18
+    ],
+    "projected": [
+      136.7
+    ],
+    "bye": "7",
+    "injury": ""
+  },
+  {
+    "rank": [
+      170
+    ],
+    "name": "Cincinnati",
+    "team": "CIN",
+    "adp": [
+      0
+    ],
+    "projected": [
+      110
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      171
+    ],
+    "name": "Terrance West",
+    "team": "BAL",
+    "adp": [
+      97.18
+    ],
+    "projected": [
+      121.1
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      172
+    ],
+    "name": "Jamaal Charles\nAvoid",
+    "team": "DEN",
+    "adp": [
+      161.06
+    ],
+    "projected": [
+      121.1
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      173
+    ],
+    "name": "Antonio Gates",
+    "team": "LAC",
+    "adp": [
+      181.44
+    ],
+    "projected": [
+      130
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      174
+    ],
+    "name": "Baltimore",
+    "team": "BAL",
+    "adp": [
+      0
+    ],
+    "projected": [
+      108
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      175
+    ],
+    "name": "Los Angeles",
+    "team": "LAR",
+    "adp": [
+      0
+    ],
+    "projected": [
+      107
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      176
+    ],
+    "name": "Thomas Rawls",
+    "team": "SEA",
+    "adp": [
+      119.63
+    ],
+    "projected": [
+      118.1
+    ],
+    "bye": "6",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      177
+    ],
+    "name": "Mike Williams",
+    "team": "LAC",
+    "adp": [
+      194.18
+    ],
+    "projected": [
+      133
+    ],
+    "bye": "9",
+    "injury": "Out"
+  },
+  {
+    "rank": [
+      178
+    ],
+    "name": "Jonathan Williams",
+    "team": "BUF",
+    "adp": [
+      158.12
+    ],
+    "projected": [
+      118
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      179
+    ],
+    "name": "David Njoku",
+    "team": "CLE",
+    "adp": [
+      182.25
+    ],
+    "projected": [
+      127
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      180
+    ],
+    "name": "Dwayne Allen\nStash",
+    "team": "NE",
+    "adp": [
+      193.79
+    ],
+    "projected": [
+      127
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      181
+    ],
+    "name": "Tavon Austin",
+    "team": "LAR",
+    "adp": [
+      203.09
+    ],
+    "projected": [
+      132
+    ],
+    "bye": "8",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      182
+    ],
+    "name": "Gostkowski, Stephen",
+    "team": "NE",
+    "adp": [
+      0
+    ],
+    "projected": [
+      140
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      183
+    ],
+    "name": "Jesse James",
+    "team": "PIT",
+    "adp": [
+      194.95
+    ],
+    "projected": [
+      126.5
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      184
+    ],
+    "name": "Paul Richardson",
+    "team": "SEA",
+    "adp": [
+      205.94
+    ],
+    "projected": [
+      131.5
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      185
+    ],
+    "name": "Matt Bryant",
+    "team": "ATL",
+    "adp": [
+      0
+    ],
+    "projected": [
+      139
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      186
+    ],
+    "name": "Devin Funchess",
+    "team": "CAR",
+    "adp": [
+      178.71
+    ],
+    "projected": [
+      130
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      187
+    ],
+    "name": "Jared Cook",
+    "team": "OAK",
+    "adp": [
+      180.29
+    ],
+    "projected": [
+      124.5
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      188
+    ],
+    "name": "O.J. Howard",
+    "team": "TB",
+    "adp": [
+      139.57
+    ],
+    "projected": [
+      124.5
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      189
+    ],
+    "name": "Gerald Everett",
+    "team": "LAR",
+    "adp": [
+      217.32
+    ],
+    "projected": [
+      124
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      190
+    ],
+    "name": "Bailey, Dan",
+    "team": "DAL",
+    "adp": [
+      0
+    ],
+    "projected": [
+      137
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      191
+    ],
+    "name": "Charles Clay",
+    "team": "BUF",
+    "adp": [
+      191.06
+    ],
+    "projected": [
+      123
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      192
+    ],
+    "name": "Crosby, Mason",
+    "team": "GB",
+    "adp": [
+      0
+    ],
+    "projected": [
+      136
+    ],
+    "bye": "8",
+    "injury": ""
+  },
+  {
+    "rank": [
+      193
+    ],
+    "name": "Giovani Bernard",
+    "team": "CIN",
+    "adp": [
+      147.5
+    ],
+    "projected": [
+      113
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      194
+    ],
+    "name": "Chris Conley",
+    "team": "KC",
+    "adp": [
+      208.41
+    ],
+    "projected": [
+      127.1
+    ],
+    "bye": "10",
+    "injury": ""
+  },
+  {
+    "rank": [
+      195
+    ],
+    "name": "Vinatieri, Adam",
+    "team": "IND",
+    "adp": [
+      0
+    ],
+    "projected": [
+      135
+    ],
+    "bye": "11",
+    "injury": ""
+  },
+  {
+    "rank": [
+      196
+    ],
+    "name": "Chris Thompson",
+    "team": "WAS",
+    "adp": [
+      175.05
+    ],
+    "projected": [
+      111.5
+    ],
+    "bye": "5",
+    "injury": ""
+  },
+  {
+    "rank": [
+      197
+    ],
+    "name": "Cairo Santos",
+    "team": "KC",
+    "adp": [
+      0
+    ],
+    "projected": [
+      134
+    ],
+    "bye": "10",
+    "injury": "Que"
+  },
+  {
+    "rank": [
+      198
+    ],
+    "name": "Steven Hauschka",
+    "team": "BUF",
+    "adp": [
+      0
+    ],
+    "projected": [
+      133
+    ],
+    "bye": "6",
+    "injury": ""
+  },
+  {
+    "rank": [
+      199
+    ],
+    "name": "Dion Lewis",
+    "team": "NE",
+    "adp": [
+      184.94
+    ],
+    "projected": [
+      109
+    ],
+    "bye": "9",
+    "injury": ""
+  },
+  {
+    "rank": [
+      200
+    ],
+    "name": "Tyler Boyd",
+    "team": "CIN",
+    "adp": [
+      219.88
+    ],
+    "projected": [
+      123.8
+    ],
+    "bye": "6",
+    "injury": ""
+  }
+]
