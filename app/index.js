@@ -1,7 +1,8 @@
-import './style';
+import './style/index.scss';
 import { Component } from 'preact';
+import App from './components/App'
 
-export default class App extends Component {
+export default class Fantasy extends Component {
 	state = {
 		loading: true,
 		playersArr: null,
@@ -9,7 +10,7 @@ export default class App extends Component {
 	}
 
 	componentDidMount () {
-		fetch('/data/rankings.json')
+		fetch('data/rankings.json')
 			.then(response => response.json())
 			.then(response => {
 				this.setState({
@@ -22,20 +23,9 @@ export default class App extends Component {
 
 	render() {
 		if (this.state.loading) return null;
-
+		const players = this.state.playersArr.map(player => this.state.playersObj[player])
 		return (
-			<table>
-				{this.state.playersArr.map(nameKey => {
-					const { rank, name, team } = this.state.playersObj[nameKey];
-					return (
-						<tr>
-							<td>{rank} - </td>
-							<td>{name} - </td>
-							<td>{team}</td>
-						</tr>
-					);
-				})}
-			</table>
+			<App players={players} />
 		);
 	}
 }

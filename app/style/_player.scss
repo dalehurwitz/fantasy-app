@@ -1,0 +1,57 @@
+.player {
+  display: flex;
+  position: relative;
+  list-style: none;
+  padding: 15px 10px;
+  border-bottom: 1px solid #dadada;
+  background: #fff;
+
+  &__stacked {
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+    &:first-child {
+      width: 100%;
+      max-width: 160px;
+    }
+    &:last-child {
+      padding-right: 0;
+    }
+    &--push-right {
+      margin-right: auto;
+    }
+  }
+
+  &__menu-toggle {
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    padding-right: 0;
+  }
+
+  &__menu {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 15px;
+    background: #fff;
+    &__buttons {
+      margin-right: auto;
+      button {
+        margin-right: 10px;
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}
+
+.player-list {
+  margin: 0;
+  padding: 0;
+}
