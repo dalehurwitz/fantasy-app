@@ -8,6 +8,7 @@ Array.prototype.forEach.call(players, function (player) {
   const nameKey = name.replace(/[^0-9a-z]/gi, '').toLowerCase()
   rankedArr[rankedArr.length] = nameKey
   rankedObj[nameKey] = {
+    id: nameKey,
     rank: [ parseFloat(player.querySelector('.playerRank').innerText) ],
     name: name,
     pos: player.querySelector('.pos').innerText.trim().toUpperCase(),

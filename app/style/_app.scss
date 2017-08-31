@@ -4,14 +4,25 @@
   box-sizing: border-box;
 }
 
+html, body {
+  height: 100%;
+}
+
 body {
   padding: 0;
   margin: 0;
   font-size: 14px;
-  line-height: 1.563 vv;
+  line-height: 1.563;
   font-family: 'Roboto', sans-serif;
+  background: #323232;
 }
 
 strong {
   font-weight: 700;
+}
+
+.app {
+  padding: 50px 0;
+  background: #323232;
+  min-height: 100%;
 }

@@ -203,6 +203,7 @@
   ],
   "object": {
     "leveonbell": {
+      "id": "leveonbell",
       "rank": [
         1
       ],
@@ -219,6 +220,7 @@
       "injury": "Que"
     },
     "davidjohnson": {
+      "id": "davidjohnson",
       "rank": [
         2
       ],
@@ -235,6 +237,7 @@
       "injury": ""
     },
     "antoniobrown": {
+      "id": "antoniobrown",
       "rank": [
         3
       ],
@@ -251,6 +254,7 @@
       "injury": ""
     },
     "odellbeckham": {
+      "id": "odellbeckham",
       "rank": [
         4
       ],
@@ -267,6 +271,7 @@
       "injury": "Que"
     },
     "juliojones": {
+      "id": "juliojones",
       "rank": [
         5
       ],
@@ -283,6 +288,7 @@
       "injury": ""
     },
     "mikeevans": {
+      "id": "mikeevans",
       "rank": [
         6
       ],
@@ -299,6 +305,7 @@
       "injury": "Que"
     },
     "ajgreen": {
+      "id": "ajgreen",
       "rank": [
         7
       ],
@@ -315,6 +322,7 @@
       "injury": ""
     },
     "melvingordon": {
+      "id": "melvingordon",
       "rank": [
         8
       ],
@@ -331,6 +339,7 @@
       "injury": ""
     },
     "michaelthomas": {
+      "id": "michaelthomas",
       "rank": [
         9
       ],
@@ -347,6 +356,7 @@
       "injury": ""
     },
     "leseanmccoy": {
+      "id": "leseanmccoy",
       "rank": [
         10
       ],
@@ -363,6 +373,7 @@
       "injury": ""
     },
     "devontafreeman": {
+      "id": "devontafreeman",
       "rank": [
         11
       ],
@@ -379,6 +390,7 @@
       "injury": "Que"
     },
     "jordynelson": {
+      "id": "jordynelson",
       "rank": [
         12
       ],
@@ -395,6 +407,7 @@
       "injury": ""
     },
     "toddgurley": {
+      "id": "toddgurley",
       "rank": [
         13
       ],
@@ -411,6 +424,7 @@
       "injury": ""
     },
     "jayajayi": {
+      "id": "jayajayi",
       "rank": [
         14
       ],
@@ -427,6 +441,7 @@
       "injury": ""
     },
     "leonardfournette": {
+      "id": "leonardfournette",
       "rank": [
         15
       ],
@@ -443,6 +458,7 @@
       "injury": "Que"
     },
     "brandincooks": {
+      "id": "brandincooks",
       "rank": [
         16
       ],
@@ -459,6 +475,7 @@
       "injury": ""
     },
     "dezbryant": {
+      "id": "dezbryant",
       "rank": [
         17
       ],
@@ -475,6 +492,7 @@
       "injury": ""
     },
     "tyhilton": {
+      "id": "tyhilton",
       "rank": [
         18
       ],
@@ -491,6 +509,7 @@
       "injury": ""
     },
     "robgronkowski": {
+      "id": "robgronkowski",
       "rank": [
         19
       ],
@@ -507,6 +526,7 @@
       "injury": ""
     },
     "amaricooper": {
+      "id": "amaricooper",
       "rank": [
         20
       ],
@@ -523,6 +543,7 @@
       "injury": ""
     },
     "dougbaldwin": {
+      "id": "dougbaldwin",
       "rank": [
         21
       ],
@@ -539,6 +560,7 @@
       "injury": ""
     },
     "deandrehopkins": {
+      "id": "deandrehopkins",
       "rank": [
         22
       ],
@@ -555,6 +577,7 @@
       "injury": "Que"
     },
     "isaiahcrowell": {
+      "id": "isaiahcrowell",
       "rank": [
         23
       ],
@@ -571,6 +594,7 @@
       "injury": ""
     },
     "jordanhoward": {
+      "id": "jordanhoward",
       "rank": [
         24
       ],
@@ -587,6 +611,7 @@
       "injury": ""
     },
     "ezekielelliott": {
+      "id": "ezekielelliott",
       "rank": [
         25
       ],
@@ -603,6 +628,7 @@
       "injury": "Sus"
     },
     "christianmccaffrey": {
+      "id": "christianmccaffrey",
       "rank": [
         26
       ],
@@ -619,6 +645,7 @@
       "injury": ""
     },
     "demarcomurray": {
+      "id": "demarcomurray",
       "rank": [
         27
       ],
@@ -635,6 +662,7 @@
       "injury": ""
     },
     "keenanallen": {
+      "id": "keenanallen",
       "rank": [
         28
       ],
@@ -651,6 +679,7 @@
       "injury": ""
     },
     "dalvincook": {
+      "id": "dalvincook",
       "rank": [
         29
       ],
@@ -667,6 +696,7 @@
       "injury": ""
     },
     "demaryiusthomas": {
+      "id": "demaryiusthomas",
       "rank": [
         30
       ],
@@ -683,6 +713,7 @@
       "injury": "Que"
     },
     "tyreekhill": {
+      "id": "tyreekhill",
       "rank": [
         31
       ],
@@ -699,6 +730,7 @@
       "injury": ""
     },
     "marshawnlynch": {
+      "id": "marshawnlynch",
       "rank": [
         32
       ],
@@ -715,6 +747,7 @@
       "injury": ""
     },
     "traviskelce": {
+      "id": "traviskelce",
       "rank": [
         33
       ],
@@ -731,6 +764,7 @@
       "injury": ""
     },
     "tymontgomery": {
+      "id": "tymontgomery",
       "rank": [
         34
       ],
@@ -747,6 +781,7 @@
       "injury": ""
     },
     "aaronrodgers": {
+      "id": "aaronrodgers",
       "rank": [
         35
       ],
@@ -763,6 +798,7 @@
       "injury": ""
     },
     "jordanreed": {
+      "id": "jordanreed",
       "rank": [
         36
       ],
@@ -779,6 +815,7 @@
       "injury": "Que"
     },
     "jimmygraham": {
+      "id": "jimmygraham",
       "rank": [
         37
       ],
@@ -795,6 +832,7 @@
       "injury": ""
     },
     "terrellepryor": {
+      "id": "terrellepryor",
       "rank": [
         38
       ],
@@ -811,6 +849,7 @@
       "injury": ""
     },
     "joemixon": {
+      "id": "joemixon",
       "rank": [
         39
       ],
@@ -827,6 +866,7 @@
       "injury": ""
     },
     "goldentate": {
+      "id": "goldentate",
       "rank": [
         40
       ],
@@ -843,6 +883,7 @@
       "injury": ""
     },
     "alshonjeffery": {
+      "id": "alshonjeffery",
       "rank": [
         41
       ],
@@ -859,6 +900,7 @@
       "injury": ""
     },
     "dougmartin": {
+      "id": "dougmartin",
       "rank": [
         42
       ],
@@ -875,6 +917,7 @@
       "injury": "Sus"
     },
     "davanteadams": {
+      "id": "davanteadams",
       "rank": [
         43
       ],
@@ -891,6 +934,7 @@
       "injury": ""
     },
     "jarvislandry": {
+      "id": "jarvislandry",
       "rank": [
         44
       ],
@@ -907,6 +951,7 @@
       "injury": ""
     },
     "tombrady": {
+      "id": "tombrady",
       "rank": [
         45
       ],
@@ -923,6 +968,7 @@
       "injury": ""
     },
     "martavisbryant": {
+      "id": "martavisbryant",
       "rank": [
         46
       ],
@@ -939,6 +985,7 @@
       "injury": "Sus"
     },
     "allenrobinson": {
+      "id": "allenrobinson",
       "rank": [
         47
       ],
@@ -955,6 +1002,7 @@
       "injury": ""
     },
     "carloshyde": {
+      "id": "carloshyde",
       "rank": [
         48
       ],
@@ -971,6 +1019,7 @@
       "injury": ""
     },
     "jamisoncrowder": {
+      "id": "jamisoncrowder",
       "rank": [
         49
       ],
@@ -987,6 +1036,7 @@
       "injury": ""
     },
     "tylereifert": {
+      "id": "tylereifert",
       "rank": [
         50
       ],
@@ -1003,6 +1053,7 @@
       "injury": "Que"
     },
     "stefondiggs": {
+      "id": "stefondiggs",
       "rank": [
         51
       ],
@@ -1019,6 +1070,7 @@
       "injury": ""
     },
     "sammywatkins": {
+      "id": "sammywatkins",
       "rank": [
         52
       ],
@@ -1035,6 +1087,7 @@
       "injury": ""
     },
     "michaelcrabtree": {
+      "id": "michaelcrabtree",
       "rank": [
         53
       ],
@@ -1051,6 +1104,7 @@
       "injury": ""
     },
     "larryfitzgerald": {
+      "id": "larryfitzgerald",
       "rank": [
         54
       ],
@@ -1067,6 +1121,7 @@
       "injury": ""
     },
     "kareemhunt": {
+      "id": "kareemhunt",
       "rank": [
         55
       ],
@@ -1083,6 +1138,7 @@
       "injury": ""
     },
     "emmanuelsanders": {
+      "id": "emmanuelsanders",
       "rank": [
         56
       ],
@@ -1099,6 +1155,7 @@
       "injury": ""
     },
     "drewbrees": {
+      "id": "drewbrees",
       "rank": [
         57
       ],
@@ -1115,6 +1172,7 @@
       "injury": ""
     },
     "dontemoncrief": {
+      "id": "dontemoncrief",
       "rank": [
         58
       ],
@@ -1131,6 +1189,7 @@
       "injury": ""
     },
     "brandonmarshall": {
+      "id": "brandonmarshall",
       "rank": [
         59
       ],
@@ -1147,6 +1206,7 @@
       "injury": "Que"
     },
     "williesnead": {
+      "id": "williesnead",
       "rank": [
         60
       ],
@@ -1163,6 +1223,7 @@
       "injury": ""
     },
     "tevincoleman": {
+      "id": "tevincoleman",
       "rank": [
         61
       ],
@@ -1179,6 +1240,7 @@
       "injury": ""
     },
     "bilalpowell": {
+      "id": "bilalpowell",
       "rank": [
         62
       ],
@@ -1195,6 +1257,7 @@
       "injury": ""
     },
     "devanteparker": {
+      "id": "devanteparker",
       "rank": [
         63
       ],
@@ -1211,6 +1274,7 @@
       "injury": ""
     },
     "samajeperine": {
+      "id": "samajeperine",
       "rank": [
         64
       ],
@@ -1227,6 +1291,7 @@
       "injury": ""
     },
     "deseanjackson": {
+      "id": "deseanjackson",
       "rank": [
         65
       ],
@@ -1243,6 +1308,7 @@
       "injury": "Que"
     },
     "mattryan": {
+      "id": "mattryan",
       "rank": [
         66
       ],
@@ -1259,6 +1325,7 @@
       "injury": ""
     },
     "kelvinbenjamin": {
+      "id": "kelvinbenjamin",
       "rank": [
         67
       ],
@@ -1275,6 +1342,7 @@
       "injury": ""
     },
     "lamarmiller": {
+      "id": "lamarmiller",
       "rank": [
         68
       ],
@@ -1291,6 +1359,7 @@
       "injury": ""
     },
     "derrickhenry": {
+      "id": "derrickhenry",
       "rank": [
         69
       ],
@@ -1307,6 +1376,7 @@
       "injury": ""
     },
     "gregolsen": {
+      "id": "gregolsen",
       "rank": [
         70
       ],
@@ -1323,6 +1393,7 @@
       "injury": ""
     },
     "russellwilson": {
+      "id": "russellwilson",
       "rank": [
         71
       ],
@@ -1339,6 +1410,7 @@
       "injury": ""
     },
     "markingram": {
+      "id": "markingram",
       "rank": [
         72
       ],
@@ -1355,6 +1427,7 @@
       "injury": ""
     },
     "ameerabdullah": {
+      "id": "ameerabdullah",
       "rank": [
         73
       ],
@@ -1371,6 +1444,7 @@
       "injury": ""
     },
     "benroethlisberger": {
+      "id": "benroethlisberger",
       "rank": [
         74
       ],
@@ -1387,6 +1461,7 @@
       "injury": ""
     },
     "pierregarcon": {
+      "id": "pierregarcon",
       "rank": [
         75
       ],
@@ -1403,6 +1478,7 @@
       "injury": ""
     },
     "andrewluck": {
+      "id": "andrewluck",
       "rank": [
         76
       ],
@@ -1419,6 +1495,7 @@
       "injury": "Out"
     },
     "dannywoodhead": {
+      "id": "dannywoodhead",
       "rank": [
         77
       ],
@@ -1435,6 +1512,7 @@
       "injury": "Que"
     },
     "marcusmariota": {
+      "id": "marcusmariota",
       "rank": [
         78
       ],
@@ -1451,6 +1529,7 @@
       "injury": ""
     },
     "kirkcousins": {
+      "id": "kirkcousins",
       "rank": [
         79
       ],
@@ -1467,6 +1546,7 @@
       "injury": ""
     },
     "cjanderson": {
+      "id": "cjanderson",
       "rank": [
         80
       ],
@@ -1483,6 +1563,7 @@
       "injury": ""
     },
     "jameiswinston": {
+      "id": "jameiswinston",
       "rank": [
         81
       ],
@@ -1499,6 +1580,7 @@
       "injury": ""
     },
     "randallcobb": {
+      "id": "randallcobb",
       "rank": [
         82
       ],
@@ -1515,6 +1597,7 @@
       "injury": ""
     },
     "zachertz": {
+      "id": "zachertz",
       "rank": [
         83
       ],
@@ -1531,6 +1614,7 @@
       "injury": ""
     },
     "camnewton": {
+      "id": "camnewton",
       "rank": [
         84
       ],
@@ -1547,6 +1631,7 @@
       "injury": ""
     },
     "adrianpeterson": {
+      "id": "adrianpeterson",
       "rank": [
         85
       ],
@@ -1563,6 +1648,7 @@
       "injury": ""
     },
     "johnbrown": {
+      "id": "johnbrown",
       "rank": [
         86
       ],
@@ -1579,6 +1665,7 @@
       "injury": ""
     },
     "tyrellwilliams": {
+      "id": "tyrellwilliams",
       "rank": [
         87
       ],
@@ -1595,6 +1682,7 @@
       "injury": "Que"
     },
     "coreydavis": {
+      "id": "coreydavis",
       "rank": [
         88
       ],
@@ -1611,6 +1699,7 @@
       "injury": "Que"
     },
     "ericdecker": {
+      "id": "ericdecker",
       "rank": [
         89
       ],
@@ -1627,6 +1716,7 @@
       "injury": "Que"
     },
     "jordanmatthews": {
+      "id": "jordanmatthews",
       "rank": [
         90
       ],
@@ -1643,6 +1733,7 @@
       "injury": "Que"
     },
     "kevinwhite": {
+      "id": "kevinwhite",
       "rank": [
         91
       ],
@@ -1659,6 +1750,7 @@
       "injury": ""
     },
     "chrishogan": {
+      "id": "chrishogan",
       "rank": [
         92
       ],
@@ -1675,6 +1767,7 @@
       "injury": ""
     },
     "adamthielen": {
+      "id": "adamthielen",
       "rank": [
         93
       ],
@@ -1691,6 +1784,7 @@
       "injury": ""
     },
     "coreycoleman": {
+      "id": "coreycoleman",
       "rank": [
         94
       ],
@@ -1707,6 +1801,7 @@
       "injury": ""
     },
     "hunterhenry": {
+      "id": "hunterhenry",
       "rank": [
         95
       ],
@@ -1723,6 +1818,7 @@
       "injury": ""
     },
     "theoriddick": {
+      "id": "theoriddick",
       "rank": [
         96
       ],
@@ -1739,6 +1835,7 @@
       "injury": ""
     },
     "tedginn": {
+      "id": "tedginn",
       "rank": [
         97
       ],
@@ -1755,6 +1852,7 @@
       "injury": ""
     },
     "robbyanderson": {
+      "id": "robbyanderson",
       "rank": [
         98
       ],
@@ -1771,6 +1869,7 @@
       "injury": ""
     },
     "paulperkins": {
+      "id": "paulperkins",
       "rank": [
         99
       ],
@@ -1787,6 +1886,7 @@
       "injury": ""
     },
     "jeremymaclin": {
+      "id": "jeremymaclin",
       "rank": [
         100
       ],
@@ -1803,6 +1903,7 @@
       "injury": ""
     },
     "ericebron": {
+      "id": "ericebron",
       "rank": [
         101
       ],
@@ -1819,6 +1920,7 @@
       "injury": "Que"
     },
     "derekcarr": {
+      "id": "derekcarr",
       "rank": [
         102
       ],
@@ -1835,6 +1937,7 @@
       "injury": ""
     },
     "zayjones": {
+      "id": "zayjones",
       "rank": [
         103
       ],
@@ -1851,6 +1954,7 @@
       "injury": ""
     },
     "mikegillislee": {
+      "id": "mikegillislee",
       "rank": [
         104
       ],
@@ -1867,6 +1971,7 @@
       "injury": ""
     },
     "breshadperriman": {
+      "id": "breshadperriman",
       "rank": [
         105
       ],
@@ -1883,6 +1988,7 @@
       "injury": "Que"
     },
     "martellusbennett": {
+      "id": "martellusbennett",
       "rank": [
         106
       ],
@@ -1899,6 +2005,7 @@
       "injury": ""
     },
     "kennybritt": {
+      "id": "kennybritt",
       "rank": [
         107
       ],
@@ -1915,6 +2022,7 @@
       "injury": ""
     },
     "dannyamendola": {
+      "id": "dannyamendola",
       "rank": [
         108
       ],
@@ -1931,6 +2039,7 @@
       "injury": ""
     },
     "kylerudolph": {
+      "id": "kylerudolph",
       "rank": [
         109
       ],
@@ -1947,6 +2056,7 @@
       "injury": "Que"
     },
     "frankgore": {
+      "id": "frankgore",
       "rank": [
         110
       ],
@@ -1963,6 +2073,7 @@
       "injury": ""
     },
     "jackdoyle": {
+      "id": "jackdoyle",
       "rank": [
         111
       ],
@@ -1979,6 +2090,7 @@
       "injury": ""
     },
     "rishardmatthews": {
+      "id": "rishardmatthews",
       "rank": [
         112
       ],
@@ -1995,6 +2107,7 @@
       "injury": ""
     },
     "philiprivers": {
+      "id": "philiprivers",
       "rank": [
         113
       ],
@@ -2011,6 +2124,7 @@
       "injury": ""
     },
     "eddielacy": {
+      "id": "eddielacy",
       "rank": [
         114
       ],
@@ -2027,6 +2141,7 @@
       "injury": ""
     },
     "dakprescott": {
+      "id": "dakprescott",
       "rank": [
         115
       ],
@@ -2043,6 +2158,7 @@
       "injury": ""
     },
     "marvinjones": {
+      "id": "marvinjones",
       "rank": [
         116
       ],
@@ -2059,6 +2175,7 @@
       "injury": ""
     },
     "shanevereen": {
+      "id": "shanevereen",
       "rank": [
         117
       ],
@@ -2075,6 +2192,7 @@
       "injury": ""
     },
     "mikewallace": {
+      "id": "mikewallace",
       "rank": [
         118
       ],
@@ -2091,6 +2209,7 @@
       "injury": ""
     },
     "joshdoctson": {
+      "id": "joshdoctson",
       "rank": [
         119
       ],
@@ -2107,6 +2226,7 @@
       "injury": "Que"
     },
     "legarretteblount": {
+      "id": "legarretteblount",
       "rank": [
         120
       ],
@@ -2123,6 +2243,7 @@
       "injury": ""
     },
     "dukejohnson": {
+      "id": "dukejohnson",
       "rank": [
         121
       ],
@@ -2139,6 +2260,7 @@
       "injury": ""
     },
     "malcolmmitchell": {
+      "id": "malcolmmitchell",
       "rank": [
         122
       ],
@@ -2155,6 +2277,7 @@
       "injury": "Que"
     },
     "delaniewalker": {
+      "id": "delaniewalker",
       "rank": [
         123
       ],
@@ -2171,6 +2294,7 @@
       "injury": ""
     },
     "jjnelson": {
+      "id": "jjnelson",
       "rank": [
         124
       ],
@@ -2187,6 +2311,7 @@
       "injury": ""
     },
     "robertwoods": {
+      "id": "robertwoods",
       "rank": [
         125
       ],
@@ -2203,6 +2328,7 @@
       "injury": ""
     },
     "elimanning": {
+      "id": "elimanning",
       "rank": [
         126
       ],
@@ -2219,6 +2345,7 @@
       "injury": ""
     },
     "cjprosise": {
+      "id": "cjprosise",
       "rank": [
         127
       ],
@@ -2235,6 +2362,7 @@
       "injury": "Que"
     },
     "taylorgabriel": {
+      "id": "taylorgabriel",
       "rank": [
         128
       ],
@@ -2251,6 +2379,7 @@
       "injury": ""
     },
     "sterlingshepard": {
+      "id": "sterlingshepard",
       "rank": [
         129
       ],
@@ -2267,6 +2396,7 @@
       "injury": ""
     },
     "seattle": {
+      "id": "seattle",
       "rank": [
         130
       ],
@@ -2283,6 +2413,7 @@
       "injury": ""
     },
     "torreysmith": {
+      "id": "torreysmith",
       "rank": [
         131
       ],
@@ -2299,6 +2430,7 @@
       "injury": ""
     },
     "tylerlockett": {
+      "id": "tylerlockett",
       "rank": [
         132
       ],
@@ -2315,6 +2447,7 @@
       "injury": "Que"
     },
     "mattforte": {
+      "id": "mattforte",
       "rank": [
         133
       ],
@@ -2331,6 +2464,7 @@
       "injury": ""
     },
     "johnross": {
+      "id": "johnross",
       "rank": [
         134
       ],
@@ -2347,6 +2481,7 @@
       "injury": ""
     },
     "marqiselee": {
+      "id": "marqiselee",
       "rank": [
         135
       ],
@@ -2363,6 +2498,7 @@
       "injury": "Que"
     },
     "denver": {
+      "id": "denver",
       "rank": [
         136
       ],
@@ -2379,6 +2515,7 @@
       "injury": ""
     },
     "dontaforeman": {
+      "id": "dontaforeman",
       "rank": [
         137
       ],
@@ -2395,6 +2532,7 @@
       "injury": "Que"
     },
     "cobyfleener": {
+      "id": "cobyfleener",
       "rank": [
         138
       ],
@@ -2411,6 +2549,7 @@
       "injury": ""
     },
     "jasonwitten": {
+      "id": "jasonwitten",
       "rank": [
         139
       ],
@@ -2427,6 +2566,7 @@
       "injury": ""
     },
     "colebeasley": {
+      "id": "colebeasley",
       "rank": [
         140
       ],
@@ -2443,6 +2583,7 @@
       "injury": ""
     },
     "kansascity": {
+      "id": "kansascity",
       "rank": [
         141
       ],
@@ -2459,6 +2600,7 @@
       "injury": ""
     },
     "cooperkupp": {
+      "id": "cooperkupp",
       "rank": [
         142
       ],
@@ -2475,6 +2617,7 @@
       "injury": "Que"
     },
     "cjfiedorowicz": {
+      "id": "cjfiedorowicz",
       "rank": [
         143
       ],
@@ -2491,6 +2634,7 @@
       "injury": "Que"
     },
     "curtissamuel": {
+      "id": "curtissamuel",
       "rank": [
         144
       ],
@@ -2507,6 +2651,7 @@
       "injury": ""
     },
     "andydalton": {
+      "id": "andydalton",
       "rank": [
         145
       ],
@@ -2523,6 +2668,7 @@
       "injury": ""
     },
     "jameswhite": {
+      "id": "jameswhite",
       "rank": [
         146
       ],
@@ -2539,6 +2685,7 @@
       "injury": ""
     },
     "houston": {
+      "id": "houston",
       "rank": [
         147
       ],
@@ -2555,6 +2702,7 @@
       "injury": ""
     },
     "lataviusmurray": {
+      "id": "lataviusmurray",
       "rank": [
         148
       ],
@@ -2571,6 +2719,7 @@
       "injury": ""
     },
     "kennystills": {
+      "id": "kennystills",
       "rank": [
         149
       ],
@@ -2587,6 +2736,7 @@
       "injury": ""
     },
     "rexburkhead": {
+      "id": "rexburkhead",
       "rank": [
         150
       ],
@@ -2603,6 +2753,7 @@
       "injury": ""
     },
     "matthewstafford": {
+      "id": "matthewstafford",
       "rank": [
         151
       ],
@@ -2619,6 +2770,7 @@
       "injury": ""
     },
     "arizona": {
+      "id": "arizona",
       "rank": [
         152
       ],
@@ -2635,6 +2787,7 @@
       "injury": ""
     },
     "darrensproles": {
+      "id": "darrensproles",
       "rank": [
         153
       ],
@@ -2651,6 +2804,7 @@
       "injury": ""
     },
     "allenhurns": {
+      "id": "allenhurns",
       "rank": [
         154
       ],
@@ -2667,6 +2821,7 @@
       "injury": ""
     },
     "minnesota": {
+      "id": "minnesota",
       "rank": [
         155
       ],
@@ -2683,6 +2838,7 @@
       "injury": ""
     },
     "austinhooper": {
+      "id": "austinhooper",
       "rank": [
         156
       ],
@@ -2699,6 +2855,7 @@
       "injury": ""
     },
     "cameronbrate": {
+      "id": "cameronbrate",
       "rank": [
         157
       ],
@@ -2715,6 +2872,7 @@
       "injury": ""
     },
     "jonathanstewart": {
+      "id": "jonathanstewart",
       "rank": [
         158
       ],
@@ -2731,6 +2889,7 @@
       "injury": ""
     },
     "juliusthomas": {
+      "id": "juliusthomas",
       "rank": [
         159
       ],
@@ -2747,6 +2906,7 @@
       "injury": ""
     },
     "newengland": {
+      "id": "newengland",
       "rank": [
         160
       ],
@@ -2763,6 +2923,7 @@
       "injury": ""
     },
     "newyorkgiants": {
+      "id": "newyorkgiants",
       "rank": [
         161
       ],
@@ -2779,6 +2940,7 @@
       "injury": ""
     },
     "alvinkamara": {
+      "id": "alvinkamara",
       "rank": [
         162
       ],
@@ -2795,6 +2957,7 @@
       "injury": ""
     },
     "robkelley": {
+      "id": "robkelley",
       "rank": [
         163
       ],
@@ -2811,6 +2974,7 @@
       "injury": ""
     },
     "carolina": {
+      "id": "carolina",
       "rank": [
         164
       ],
@@ -2827,6 +2991,7 @@
       "injury": ""
     },
     "jeremyhill": {
+      "id": "jeremyhill",
       "rank": [
         165
       ],
@@ -2843,6 +3008,7 @@
       "injury": "Que"
     },
     "jamaalwilliams": {
+      "id": "jamaalwilliams",
       "rank": [
         166
       ],
@@ -2859,6 +3025,7 @@
       "injury": ""
     },
     "mohamedsanu": {
+      "id": "mohamedsanu",
       "rank": [
         167
       ],
@@ -2875,6 +3042,7 @@
       "injury": ""
     },
     "justintucker": {
+      "id": "justintucker",
       "rank": [
         168
       ],
@@ -2891,6 +3059,7 @@
       "injury": ""
     },
     "kennygolladay": {
+      "id": "kennygolladay",
       "rank": [
         169
       ],
@@ -2907,6 +3076,7 @@
       "injury": ""
     },
     "cincinnati": {
+      "id": "cincinnati",
       "rank": [
         170
       ],
@@ -2923,6 +3093,7 @@
       "injury": ""
     },
     "jamaalcharles": {
+      "id": "jamaalcharles",
       "rank": [
         171
       ],
@@ -2939,6 +3110,7 @@
       "injury": ""
     },
     "terrancewest": {
+      "id": "terrancewest",
       "rank": [
         172
       ],
@@ -2955,6 +3127,7 @@
       "injury": ""
     },
     "antoniogates": {
+      "id": "antoniogates",
       "rank": [
         173
       ],
@@ -2971,6 +3144,7 @@
       "injury": ""
     },
     "baltimore": {
+      "id": "baltimore",
       "rank": [
         174
       ],
@@ -2987,6 +3161,7 @@
       "injury": ""
     },
     "losangeles": {
+      "id": "losangeles",
       "rank": [
         175
       ],
@@ -3003,6 +3178,7 @@
       "injury": ""
     },
     "thomasrawls": {
+      "id": "thomasrawls",
       "rank": [
         176
       ],
@@ -3019,6 +3195,7 @@
       "injury": "Que"
     },
     "mikewilliams": {
+      "id": "mikewilliams",
       "rank": [
         177
       ],
@@ -3035,6 +3212,7 @@
       "injury": "Out"
     },
     "jonathanwilliams": {
+      "id": "jonathanwilliams",
       "rank": [
         178
       ],
@@ -3051,6 +3229,7 @@
       "injury": ""
     },
     "carsonwentz": {
+      "id": "carsonwentz",
       "rank": [
         179
       ],
@@ -3067,6 +3246,7 @@
       "injury": ""
     },
     "davidnjoku": {
+      "id": "davidnjoku",
       "rank": [
         180
       ],
@@ -3083,6 +3263,7 @@
       "injury": ""
     },
     "dwayneallen": {
+      "id": "dwayneallen",
       "rank": [
         181
       ],
@@ -3099,6 +3280,7 @@
       "injury": ""
     },
     "tavonaustin": {
+      "id": "tavonaustin",
       "rank": [
         182
       ],
@@ -3115,6 +3297,7 @@
       "injury": "Que"
     },
     "gostkowskistephen": {
+      "id": "gostkowskistephen",
       "rank": [
         183
       ],
@@ -3131,6 +3314,7 @@
       "injury": ""
     },
     "jessejames": {
+      "id": "jessejames",
       "rank": [
         184
       ],
@@ -3147,6 +3331,7 @@
       "injury": ""
     },
     "paulrichardson": {
+      "id": "paulrichardson",
       "rank": [
         185
       ],
@@ -3163,6 +3348,7 @@
       "injury": ""
     },
     "mattbryant": {
+      "id": "mattbryant",
       "rank": [
         186
       ],
@@ -3179,6 +3365,7 @@
       "injury": ""
     },
     "devinfunchess": {
+      "id": "devinfunchess",
       "rank": [
         187
       ],
@@ -3195,6 +3382,7 @@
       "injury": ""
     },
     "jaredcook": {
+      "id": "jaredcook",
       "rank": [
         188
       ],
@@ -3211,6 +3399,7 @@
       "injury": ""
     },
     "ojhoward": {
+      "id": "ojhoward",
       "rank": [
         189
       ],
@@ -3227,6 +3416,7 @@
       "injury": ""
     },
     "geraldeverett": {
+      "id": "geraldeverett",
       "rank": [
         190
       ],
@@ -3243,6 +3433,7 @@
       "injury": ""
     },
     "baileydan": {
+      "id": "baileydan",
       "rank": [
         191
       ],
@@ -3259,6 +3450,7 @@
       "injury": ""
     },
     "tyrodtaylor": {
+      "id": "tyrodtaylor",
       "rank": [
         192
       ],
@@ -3275,6 +3467,7 @@
       "injury": "Que"
     },
     "charlesclay": {
+      "id": "charlesclay",
       "rank": [
         193
       ],
@@ -3291,6 +3484,7 @@
       "injury": ""
     },
     "crosbymason": {
+      "id": "crosbymason",
       "rank": [
         194
       ],
@@ -3307,6 +3501,7 @@
       "injury": ""
     },
     "giovanibernard": {
+      "id": "giovanibernard",
       "rank": [
         195
       ],
@@ -3323,6 +3518,7 @@
       "injury": ""
     },
     "chrisconley": {
+      "id": "chrisconley",
       "rank": [
         196
       ],
@@ -3339,6 +3535,7 @@
       "injury": ""
     },
     "vinatieriadam": {
+      "id": "vinatieriadam",
       "rank": [
         197
       ],
@@ -3355,6 +3552,7 @@
       "injury": ""
     },
     "christhompson": {
+      "id": "christhompson",
       "rank": [
         198
       ],
@@ -3371,6 +3569,7 @@
       "injury": ""
     },
     "cairosantos": {
+      "id": "cairosantos",
       "rank": [
         199
       ],
@@ -3387,6 +3586,7 @@
       "injury": "Que"
     },
     "jaycutler": {
+      "id": "jaycutler",
       "rank": [
         200
       ],
