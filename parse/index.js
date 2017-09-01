@@ -39,9 +39,6 @@ async function parseData () {
   combinedArray.forEach((playerName) => {
     const player = combinedObject[playerName]
 
-    if (playerName === 'jordanhoward') {
-      console.log(player)
-    }
     for (let field in player) {
       if (Array.isArray(player[field])) {
         player[field] = arrayAverage(player[field])
