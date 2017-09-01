@@ -43,6 +43,7 @@ class Player extends Component {
 
   render (props) {
     const { rank, name, team, pos, adp, bye, injury, id } = props.player
+    const index = props.index + 1
     const { add } = props
     const className = this.getPlayerClasses()
     const menuClassName = ['player__menu', injury ? 'player__menu--injured' : ''].join(' ').trim()
@@ -50,7 +51,7 @@ class Player extends Component {
       <div className={className}>
         <button className='player__menu-toggle' onClick={this.toggleMenu} />
         <div className='player__stacked player__name'>
-          <span className='player__name-field'>{rank}. {name}</span>
+          <span className='player__name-field'>{index}. {name}</span>
           <span className='player__component'>
             <strong>{pos}</strong> - {team}
           </span>
@@ -67,7 +68,7 @@ class Player extends Component {
           <div className={menuClassName}>
             <div className='player__menu__name'>
               <div className='player__stacked'>
-                <span className='player__name-field'>{rank}. {name}</span>
+                <span className='player__name-field'>{index}. {name}</span>
                 <span className='player__component'>
                   <strong>{pos}</strong> - {team}
                 </span>
@@ -106,6 +107,7 @@ class PlayerList extends Component {
       <div key={player.id} style={style}>
         <Player
           player={player}
+          index={index}
           {...props} />
       </div>
     )
