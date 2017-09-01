@@ -54,8 +54,20 @@ export default class Fantasy extends Component {
     this.setState({
       draftName: name,
       showSplash: false,
+      loading: false,
       activePage: 'Remaining',
       ...data
+    })
+  }
+
+  loadActiveDraft () {
+    const { activeDraft, drafts } = localStorage.getStorage()
+    if (activeDraft && drafts[activeDraft]) {
+      this.loadDraft(activeDraft, drafts[activeDraft])
+      return
+    }
+    this.setState({
+      loading: false
     })
   }
 
@@ -178,10 +190,10 @@ export default class Fantasy extends Component {
       .then(response => response.json())
       .then(response => {
         this.setState({
-          loading: false,
           playersArr: response.array.slice(),
           playersObj: response.object
         });
+        this.loadActiveDraft()
       });
   }
 
@@ -203,7 +215,11 @@ export default class Fantasy extends Component {
   }
 
   render() {
-    if (this.state.loading) return null;
+    if (this.state.loading) return (
+      <div className='loading'>
+        <span>Loading...</span>
+      </div>
+    );
 
     const { activePage, showSplash } = this.state
     const players = this.getPlayerList()
@@ -247,7 +263,7 @@ export default class Fantasy extends Component {
     return (
       <div class='app'>
         {showSplash
-          ? <Splash onSubmit={this.createDraft} onLoad={this.loadDraft} />
+          ? <Splash onSubmit={this.createDraft} loadDraft={this.loadDraft} />
           : (
             <div>
               <TopNav {...topNavProps} />

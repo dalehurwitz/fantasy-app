@@ -12,7 +12,7 @@ class Splash extends Component {
 
     const { name, cache } = this.state
 
-    if (!name || cache && cache[name]) return
+    if (!name || cache && cache.drafts[name]) return
 
     this.props.onSubmit(name)
   }
@@ -32,12 +32,13 @@ class Splash extends Component {
 
   loadDraft = ({ target }) => {
     const name = target.dataset.name
-    const draft = this.state.cache[name]
-    this.props.onLoad(name, draft)
+    const draft = this.state.cache.drafts[name]
+    localStorage.setActiveDraft(name)
+    this.props.loadDraft(name, draft)
   }
 
   renderCachedDrafts () {
-    return Object.keys(this.state.cache).map(name => (
+    return Object.keys(this.state.cache.drafts).map(name => (
       <li className='splash__list-item'>
         <button className='splash__delete' data-name={name} onClick={this.deleteDraft}>X</button>
         <a className='splash__link' data-name={name} onClick={this.loadDraft}>{name}</a>
