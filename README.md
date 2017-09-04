@@ -2,6 +2,8 @@
 
 A little app I hacked together to help me with my NFL Fantasy League Draft.
 
+http://play.dalehurwitz.com/fantasy/
+
 ## Run
 
 ### 1) Generate rankings json
