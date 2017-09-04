@@ -50,7 +50,7 @@ async function parseData () {
     }
   })
 
-  fs.writeFileSync('../data/rankings.json', JSON.stringify({
+  fs.writeFileSync('./data/rankings.json', JSON.stringify({
     array: combinedArray,
     object: combinedObject
   }))
