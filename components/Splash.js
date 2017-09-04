@@ -52,7 +52,7 @@ class Splash extends Component {
         <h1>The Milky Way</h1>
         <form className='splash__form' onSubmit={this.onSubmit}>
           <input type='text' placeholder='Enter a draft name' value={this.state.name} onInput={this.onUpdateName} />
-          <button type='submit'>Go</button>
+          <button type='submit'>Start</button>
         </form>
         <ul className='splash__list'>
           {this.renderCachedDrafts()  }

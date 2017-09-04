@@ -174,7 +174,6 @@ export default class Fantasy extends Component {
     return players
       .filter(name => {
         const player = playersObj[name]
-        console.log(name, player);
         if (filters.length) {
           return filters.every(filter => {
             return filter.call(this, player)

@@ -1,13 +1,13 @@
 {
-  "name": "Preact CLI App",
-  "short_name": "Preact CLI App",
-  "start_url": "/",
+  "name": "The Milky Way",
+  "short_name": "The Milky Way",
+  "start_url": "",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#323232",
-  "theme_color": "#673ab8",
+  "theme_color": "#323232",
   "icons": [{
-    "src": "/assets/icon.png",
+    "src": "assets/icon.png",
     "type": "image/png",
     "sizes": "512x512"
   }]

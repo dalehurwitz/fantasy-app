@@ -19,7 +19,7 @@ async function parseData () {
       return list
     }
 
-    if (player.adp) {
+    if (player.adp && player.adp !== 0) {
       listPlayer.adp = listPlayer.adp.concat(player.adp)
     }
 
@@ -29,6 +29,10 @@ async function parseData () {
 
     if (player.projected) {
       listPlayer.projected = listPlayer.projected.concat(player.projected)
+    }
+
+    if (player.bye && !listPlayer.bye) {
+      listPlayer.bye = player.bye
     }
 
     return list

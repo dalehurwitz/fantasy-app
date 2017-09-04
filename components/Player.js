@@ -53,7 +53,7 @@ class Player extends Component {
         <div className='player__stacked player__name'>
           <span className='player__name-field'>{index}. {name}</span>
           <span className='player__component'>
-            <strong>{pos}</strong> - {team}
+            <strong>{pos}</strong>{pos !== 'DEF' && <span> - {team}</span>}
           </span>
         </div>
         <div className='player__stacked'>
@@ -70,7 +70,7 @@ class Player extends Component {
               <div className='player__stacked'>
                 <span className='player__name-field'>{index}. {name}</span>
                 <span className='player__component'>
-                  <strong>{pos}</strong> - {team}
+                  <strong>{pos}</strong>{pos !== 'DEF' && <span> - {team}</span>}
                 </span>
               </div>
             </div>

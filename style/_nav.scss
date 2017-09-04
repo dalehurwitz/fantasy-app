@@ -48,6 +48,7 @@ $activeColour: #64FFDA;
     margin: 0 3px;
     font-weight: 700;
     outline: none;
+    cursor: pointer;
     &--active {
       color: $activeColour;
       border-bottom: 2px solid $activeColour;
@@ -73,6 +74,7 @@ $activeColour: #64FFDA;
     margin: 0px 10px;
     color: #fff;
     text-decoration: none;
+    cursor: pointer;
     &--active {
       color: $activeColour;
     }

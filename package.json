@@ -25,9 +25,11 @@
     "sass-loader": "^6.0.6"
   },
   "dependencies": {
+    "node-sass": "^4.5.3",
     "preact": "^8.2.5",
     "preact-compat": "^3.17.0",
     "preact-router": "^2.5.7",
-    "react-virtualized": "^9.9.0"
+    "react-virtualized": "^9.9.0",
+    "sass-loader": "^6.0.6"
   }
 }

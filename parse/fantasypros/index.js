@@ -65,6 +65,7 @@ function parse (document) {
       rank: [ parseFloat(cells[0].textContent) ],
       name: name,
       team: cells[1].firstElementChild.nextElementSibling.textContent,
+      bye: cells[3].textContent,
       pos: pos === 'DST' ? 'DEF' : pos,
       adp: [ parseFloat(cells[8].textContent) ],
     }
