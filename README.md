@@ -1,6 +1,6 @@
 # fantasy-app
 
-A little app I hacked together to help me with my NFL Fantasy League Draft.
+A little app I hacked together to help me with my NFL Fantasy League Draft. Created with mobile in mind but works fine on desktop.
 
 http://play.dalehurwitz.com/fantasy/
 
