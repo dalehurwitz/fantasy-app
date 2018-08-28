@@ -243,6 +243,7 @@ export default class Fantasy extends Component {
     const playerListProps = {
       players: filteredPlayers,
       page: this.state.activePage,
+      pos: this.state.filterPos,
       ...(activePage === 'Remaining'
         ? {
           add: this.addPlayerToTeam,
