@@ -57,21 +57,34 @@ $activeColour: #64ffda;
   }
 
   &__search-toggle {
-    background: white;
+    background: transparent;
     border: none;
     border-radius: 3px;
     padding: 4px;
     margin-right: 15px;
+    path {
+      fill: #fff;
+    }
+    &--active {
+      background: #fff;
+      path {
+        fill: #323232;
+      }
+    }
   }
 
   &__search-container {
+    display: flex;
+    align-items: center;
     position: absolute;
     left: 0;
     right: 0;
     top: -50px;
     height: 50px;
     background: #323232;
-    border-bottom: 1px solid #6d6d6d;
+    border: 1px solid #6d6d6d;
+    border-left: none;
+    border-right: none;
     padding: 2px 15px;
     form {
       display: flex;
@@ -81,14 +94,42 @@ $activeColour: #64ffda;
   }
 
   &__search-input {
+    flex: 1;
     background: transparent;
     color: white;
     border: none;
     width: 100%;
     height: 34px;
     padding: 0 10px;
+    margin-right: 10px;
     &::placeholder {
       color: rgb(196, 196, 196);
+    }
+  }
+
+  &__search-clear {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    border: none;
+    background: transparent;
+    padding: 0;
+    &:before,
+    &:after {
+      content: "";
+      position: absolute;
+      display: block;
+      width: 2px;
+      height: 16px;
+      background: #eee;
+      left: 12px;
+      top: 5px;
+    }
+    &:before {
+      transform: rotate(45deg);
+    }
+    &:after {
+      transform: rotate(-45deg);
     }
   }
 }

@@ -11,11 +11,13 @@ export default class Fantasy extends Component {
     draftName: null,
     loading: true,
     showSplash: true,
+    searchActive: false,
     activePage: 'Remaining',
     playersArr: null,
     playersObj: null,
     filterPos: '',
     filterTeam: '',
+    searchVal: '',
     remaining: [],
     taken: [],
     team: [],
@@ -24,7 +26,7 @@ export default class Fantasy extends Component {
     leaguePlayers: 12
   }
 
-  updateState (newState) {
+  updateState(newState) {
     this.setState(newState, () => {
       const { remaining, taken, team, pick, round } = this.state
       localStorage.updateStorage(this.state.draftName, {
@@ -60,7 +62,7 @@ export default class Fantasy extends Component {
     })
   }
 
-  loadActiveDraft () {
+  loadActiveDraft() {
     const { activeDraft, drafts } = localStorage.getStorage()
     if (activeDraft && drafts[activeDraft]) {
       this.loadDraft(activeDraft, drafts[activeDraft])
@@ -71,12 +73,16 @@ export default class Fantasy extends Component {
     })
   }
 
-  filterPos (player) {
+  filterPos(player) {
     return player.pos === this.state.filterPos
   }
 
-  filterTeam ({ team }) {
+  filterTeam({ team }) {
     return team === this.state.filterTeam
+  }
+
+  filterSearch({ name }) {
+    return (new RegExp(this.state.searchVal, 'gi')).test(name)
   }
 
   changePage = ({ target }) => {
@@ -110,13 +116,13 @@ export default class Fantasy extends Component {
     })
   }
 
-  removePlayer (name, list) {
+  removePlayer(name, list) {
     const newList = list.slice()
     newList.splice(list.indexOf(name), 1)
     return newList
   }
 
-  addPlayer (name, list) {
+  addPlayer(name, list) {
     return [
       ...list,
       name
@@ -159,9 +165,20 @@ export default class Fantasy extends Component {
     this.decreasePick()
   }
 
-  getFilteredPlayers (players) {
-    const { filterPos, filterTeam, playersObj } = this.state
+  getFilteredPlayers(players) {
+    const {
+      filterPos,
+      filterTeam,
+      playersObj,
+      searchVal,
+      searchActive
+    } = this.state
+
     let filters = []
+
+    if (searchVal && searchActive) {
+      filters[filters.length] = this.filterSearch
+    }
 
     if (filterPos) {
       filters[filters.length] = this.filterPos
@@ -185,7 +202,7 @@ export default class Fantasy extends Component {
       .sort((a, b) => a.rank < b.rank ? -1 : a.rank > b.rank ? 1 : 0)
   }
 
-  componentDidMount () {
+  componentDidMount() {
     fetch('data/rankings.json')
       .then(response => response.json())
       .then(response => {
@@ -197,7 +214,7 @@ export default class Fantasy extends Component {
       });
   }
 
-  getPlayerList () {
+  getPlayerList() {
     switch (this.state.activePage) {
       case 'Team':
         return this.state.team
@@ -211,6 +228,24 @@ export default class Fantasy extends Component {
   showSplash = () => {
     this.setState({
       showSplash: true
+    })
+  }
+
+  toggleSearch = () => {
+    this.setState(oldState => ({
+      searchActive: !oldState.searchActive
+    }))
+  }
+
+  onSearchInput = e => {
+    this.setState({
+      searchVal: e.target.value
+    })
+  }
+
+  clearSearch = () => {
+    this.setState({
+      searchVal: ''
     })
   }
 
@@ -237,7 +272,12 @@ export default class Fantasy extends Component {
     const btmNavProps = {
       changePos: this.changePos,
       pos: this.state.filterPos,
-      showSplash: this.showSplash
+      showSplash: this.showSplash,
+      toggleSearch: this.toggleSearch,
+      searchActive: this.state.searchActive,
+      onSearchInput: this.onSearchInput,
+      clearSearch: this.clearSearch,
+      searchVal: this.state.searchVal
     }
 
     const playerListProps = {
@@ -251,13 +291,13 @@ export default class Fantasy extends Component {
           pick: this.state.pick
         }
         : activePage === 'Taken'
-        ? {
-          remove: this.removePlayerFromTaken
-        }
-        : activePage === 'Team'
-        ? {
-          remove: this.removePlayerFromTeam
-        } : {}
+          ? {
+            remove: this.removePlayerFromTaken
+          }
+          : activePage === 'Team'
+            ? {
+              remove: this.removePlayerFromTeam
+            } : {}
       )
     }
 

@@ -31,7 +31,10 @@ const BtmNav = props => (
         );
       })}
     </div>
-    <button class="btm-nav__search-toggle">
+    <button
+      onClick={props.toggleSearch}
+      class={`btm-nav__search-toggle ${props.searchActive ? 'btm-nav__search-toggle--active' : ''}`}
+    >
       <svg style="width:24px;height:24px" viewBox="0 0 24 24">
         <path
           fill="#323232"
@@ -40,15 +43,18 @@ const BtmNav = props => (
       </svg>
     </button>
     <button className="btm-nav__menu" onClick={props.showSplash} />
-    <div class="btm-nav__search-container">
-      <form>
+    {props.searchActive && (
+      <div class="btm-nav__search-container">
         <input
           class="btm-nav__search-input"
           type="text"
           placeholder="Search..."
+          onInput={props.onSearchInput}
+          value={props.searchVal}
         />
-      </form>
-    </div>
+        <button class="btm-nav__search-clear" onClick={props.clearSearch}></button>
+      </div>
+    )}
   </nav>
 );
 
