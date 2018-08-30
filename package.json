@@ -8,7 +8,8 @@
     "start": "if-env NODE_ENV=production && npm run -s serve || npm run -s dev",
     "build": "preact build",
     "serve": "preact build && preact serve",
-    "dev": "preact watch"
+    "dev": "preact watch",
+    "parse": "node ./parse/index.js"
   },
   "keywords": [],
   "author": "",

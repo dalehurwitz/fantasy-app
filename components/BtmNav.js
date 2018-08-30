@@ -51,6 +51,7 @@ const BtmNav = props => (
           placeholder="Search..."
           onInput={props.onSearchInput}
           value={props.searchVal}
+          autofocus
         />
         <button class="btm-nav__search-clear" onClick={props.clearSearch}></button>
       </div>

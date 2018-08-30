@@ -3,7 +3,7 @@ const dedupe = require('dedupe')
 const getScoutData = require('./scout-dot-com')
 const getFantasyData = require('./fantasypros')
 
-async function parseData () {
+async function parseData() {
   const scoutData = await getScoutData()
   const fantasyProsData = await getFantasyData()
 
@@ -56,7 +56,7 @@ async function parseData () {
   }))
 }
 
-function arrayAverage (array) {
+function arrayAverage(array) {
   const average = (array.reduce((prev, val) => {
     return prev + val
   }, 0) / array.length).toFixed(2)

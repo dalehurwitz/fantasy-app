@@ -38,7 +38,7 @@ const teamNames = {
   'San Francisco 49ers': 'San Francisco'
 }
 
-async function getData () {
+async function getData() {
   const { data } = await axios.get(url)
   const { document } = (new JSDOM(data)).window
   return parse(document)
@@ -46,28 +46,30 @@ async function getData () {
 
 getData()
 
-function parse (document) {
-  const players = document.querySelectorAll('tr[class*=mpb-player-]')
+function parse(document) {
+  const allPlayers = document.querySelectorAll('tr[class*=mpb-player-]')
+  // limit to 300 players
+  const players = [].slice.call(allPlayers, 0, 300)
 
   let rankedArr = []
   let rankedObj = {}
 
-  for (var i = 0; i < 300; i++) {
+  for (var i = 0; i < players.length; i++) {
     const player = players[i]
     const cells = player.querySelectorAll('td')
-    let name = cells[1].firstElementChild.textContent.replace(' Jr.', '')
+    let name = cells[1].firstElementChild.dataset.name.replace(' Jr.', '')
     name = teamNames[name] || name
     const nameKey = name.replace(/[^0-9a-z]/gi, '').toLowerCase()
-    const pos = cells[2].textContent.replace(/[^a-z]/gi, '')
+    const pos = cells[3].textContent.replace(/[^a-z]/gi, '')
     rankedArr[rankedArr.length] = nameKey
     rankedObj[nameKey] = {
       id: nameKey,
-      rank: [ parseFloat(cells[0].textContent) ],
+      rank: [parseFloat(cells[0].textContent)],
       name: name,
-      team: cells[1].firstElementChild.nextElementSibling.textContent,
-      bye: cells[3].textContent,
+      team: cells[1].firstElementChild.dataset.team,
+      bye: cells[4].textContent,
       pos: pos === 'DST' ? 'DEF' : pos,
-      adp: [ parseFloat(cells[8].textContent) ],
+      adp: [parseFloat(cells[7].textContent)],
     }
   }
 
