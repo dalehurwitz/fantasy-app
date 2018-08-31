@@ -42,9 +42,24 @@ class Player extends Component {
   }
 
   render(props) {
-    const { rank, name, team, pos, adp, bye, injury, id } = props.player;
+    const {
+      add,
+      taken,
+      remove,
+      toggleFavourite,
+      isFavourite,
+      player: {
+        name,
+        team,
+        pos,
+        adp,
+        bye,
+        injury,
+        id
+      }
+    } = props;
+
     const index = props.index + 1;
-    const { add } = props;
     const className = this.getPlayerClasses();
     const menuClassName = [
       "player__menu",
@@ -76,6 +91,17 @@ class Player extends Component {
           </span>
           <span>{bye}</span>
         </div>
+        <button
+          data-name={id}
+          onClick={toggleFavourite}
+          className={[
+            "player__button player__button--favourite",
+            isFavourite ? 'player__button--favourite--active' : ''
+          ].join(' ').trim()}>
+          <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+            <path className="player__button--favourite-fill" fill="#000000" d="M12,17.27L18.18,21L16.54,13.97L22,9.24L14.81,8.62L12,2L9.19,8.62L2,9.24L7.45,13.97L5.82,21L12,17.27Z" />
+          </svg>
+        </button>
         {this.state.menuOpen && (
           <div className={menuClassName}>
             <div className="player__menu__name">
@@ -90,28 +116,28 @@ class Player extends Component {
               </div>
             </div>
             <div className="player__menu__buttons">
-              {props.taken && (
+              {taken && (
                 <button
                   className="player__button player__button--remove"
-                  onClick={props.taken}
+                  onClick={taken}
                   data-name={id}
                 >
                   Taken
                 </button>
               )}
-              {props.add && (
+              {add && (
                 <button
                   className="player__button player__button--draft"
-                  onClick={props.add}
+                  onClick={add}
                   data-name={id}
                 >
                   Draft
                 </button>
               )}
-              {props.remove && (
+              {remove && (
                 <button
                   className="player__button player__button--remove"
-                  onClick={props.remove}
+                  onClick={remove}
                   data-name={id}
                 >
                   Remove
@@ -133,17 +159,14 @@ class Player extends Component {
 
 class PlayerList extends Component {
   rowRenderer = ({
-    key, // Unique key within array of rows
     index, // Index of row within collection
-    isScrolling, // The List is currently being scrolled
-    isVisible, // This row is visible within the List (eg it is not an overscanned row)
     style // Style object to be applied to row (to position it)
   }) => {
-    const { players, ...props } = this.props;
+    const { players, favourites, ...props } = this.props;
     const player = players[index];
     return (
       <div key={player.id} style={style}>
-        <Player player={player} index={index} {...props} />
+        <Player player={player} isFavourite={favourites.indexOf(player.id) > -1} index={index} {...props} />
       </div>
     );
   };
@@ -165,6 +188,7 @@ class PlayerList extends Component {
             pick={props.pick}
             page={props.page}
             pos={props.pos}
+            favourites={props.favourites}
           />
         )}
       </WindowScroller>

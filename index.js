@@ -21,6 +21,7 @@ export default class Fantasy extends Component {
     remaining: [],
     taken: [],
     team: [],
+    favourites: [],
     pick: 1,
     round: 1,
     leaguePlayers: 12
@@ -28,10 +29,11 @@ export default class Fantasy extends Component {
 
   updateState(newState) {
     this.setState(newState, () => {
-      const { remaining, taken, team, pick, round } = this.state
+      const { remaining, taken, favourites, team, pick, round } = this.state
       localStorage.updateStorage(this.state.draftName, {
         remaining,
         taken,
+        favourites,
         team,
         pick,
         round
@@ -165,6 +167,20 @@ export default class Fantasy extends Component {
     this.decreasePick()
   }
 
+  toggleFavourite = ({ target }) => {
+    const { name } = target.dataset
+    const favourites = [...this.state.favourites]
+    const playerIndex = favourites.indexOf(name)
+    if (playerIndex > -1) {
+      favourites.splice(playerIndex, 1)
+    } else {
+      favourites.push(name)
+    }
+    this.updateState({
+      favourites
+    })
+  }
+
   getFilteredPlayers(players) {
     const {
       filterPos,
@@ -220,6 +236,8 @@ export default class Fantasy extends Component {
         return this.state.team
       case 'Taken':
         return this.state.taken
+      case 'Fave':
+        return this.state.favourites.filter(player => this.state.remaining.indexOf(player) > -1)
       default:
         return this.state.remaining
     }
@@ -284,20 +302,24 @@ export default class Fantasy extends Component {
       players: filteredPlayers,
       page: this.state.activePage,
       pos: this.state.filterPos,
-      ...(activePage === 'Remaining'
-        ? {
-          add: this.addPlayerToTeam,
-          taken: this.addPlayerToTaken,
-          pick: this.state.pick
-        }
-        : activePage === 'Taken'
+      toggleFavourite: this.toggleFavourite,
+      favourites: this.state.favourites,
+      ...(
+        activePage === 'Remaining' ||
+          activePage === 'Fave'
           ? {
-            remove: this.removePlayerFromTaken
+            add: this.addPlayerToTeam,
+            taken: this.addPlayerToTaken,
+            pick: this.state.pick
           }
-          : activePage === 'Team'
+          : activePage === 'Taken'
             ? {
-              remove: this.removePlayerFromTeam
-            } : {}
+              remove: this.removePlayerFromTaken
+            }
+            : activePage === 'Team'
+              ? {
+                remove: this.removePlayerFromTeam
+              } : {}
       )
     }
 
