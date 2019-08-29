@@ -20,11 +20,11 @@ class Player extends Component {
     if (pick) {
       let adpClass = "";
       const diff = pick - adp;
-      if (diff >= 10) {
+      if (diff >= 5) {
         adpClass = "player--adp-3";
-      } else if (diff >= 5) {
-        adpClass = "player--adp-2";
       } else if (diff >= 3) {
+        adpClass = "player--adp-2";
+      } else if (diff >= 1) {
         adpClass = "player--adp-1";
       }
       classes.push(adpClass);
@@ -48,15 +48,7 @@ class Player extends Component {
       remove,
       toggleFavourite,
       isFavourite,
-      player: {
-        name,
-        team,
-        pos,
-        adp,
-        bye,
-        injury,
-        id
-      }
+      player: { name, team, pos, adp, bye, injury, id }
     } = props;
 
     const index = props.index + 1;
@@ -96,10 +88,17 @@ class Player extends Component {
           onClick={toggleFavourite}
           className={[
             "player__button player__button--favourite",
-            isFavourite ? 'player__button--favourite--active' : ''
-          ].join(' ').trim()}>
+            isFavourite ? "player__button--favourite--active" : ""
+          ]
+            .join(" ")
+            .trim()}
+        >
           <svg style="width:24px;height:24px" viewBox="0 0 24 24">
-            <path className="player__button--favourite-fill" fill="#000000" d="M12,17.27L18.18,21L16.54,13.97L22,9.24L14.81,8.62L12,2L9.19,8.62L2,9.24L7.45,13.97L5.82,21L12,17.27Z" />
+            <path
+              className="player__button--favourite-fill"
+              fill="#000000"
+              d="M12,17.27L18.18,21L16.54,13.97L22,9.24L14.81,8.62L12,2L9.19,8.62L2,9.24L7.45,13.97L5.82,21L12,17.27Z"
+            />
           </svg>
         </button>
         {this.state.menuOpen && (
@@ -166,7 +165,12 @@ class PlayerList extends Component {
     const player = players[index];
     return (
       <div key={player.id} style={style}>
-        <Player player={player} isFavourite={favourites.indexOf(player.id) > -1} index={index} {...props} />
+        <Player
+          player={player}
+          isFavourite={favourites.indexOf(player.id) > -1}
+          index={index}
+          {...props}
+        />
       </div>
     );
   };
