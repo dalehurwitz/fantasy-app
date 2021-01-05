@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "dedupe": "^2.1.0",
     "eslint": "^4.5.0",
     "eslint-config-synacor": "^1.1.0",
