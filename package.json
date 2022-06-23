@@ -20,7 +20,7 @@
     "eslint": "^4.5.0",
     "eslint-config-synacor": "^1.1.0",
     "if-env": "^1.0.0",
-    "jsdom": "^11.2.0",
+    "jsdom": "^16.5.0",
     "preact-cli": "^1.4.1",
     "sass-loader": "^6.0.6"
   },
